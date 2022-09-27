@@ -1,8 +1,8 @@
 - 😇 [STAR] Repo if you find my WORK USEFUL
 - 👋 Hi, I’m @sarath mannam
-- 👀 I’m interested in Solving Computer vision problems
-- 🌱 I’m currently doing Master's in Computer Vision
-- 💞️ I’m looking to collaborate on CV Problems
+- 👀 I’m interested in Solving Computer science and Computer vision problems
+- 🌱 I’m currently doing Master's in Computer Science
+- 💞️ I’m looking to collaborate on CS Problems
 - 📫 Reach me at sarath.mannam13@knights.ucf.edu
 
 <!---
